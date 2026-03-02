@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="AI Animation">
 
 # 👋 Hi, I'm Alexandre Diano  
-### Exploring the Boundaries of AI and Computer Vision: Building Intelligent and Innovative Solutions  
+### Computer Vision Researcher · M.Sc. @ UFPR · VRI Lab  
 
 <h1></h1>
 
@@ -14,43 +14,45 @@
 ## 🧠 About Me  
 </div>
 
-I'm a passionate Artificial Intelligence enthusiast with a focus on Computer Vision and its transformative applications. My software development journey began in 2019, and I’ve been dedicated to solving real-world problems with technology ever since.
+I'm a Computer Vision researcher currently pursuing my Master's degree at the VRI Lab (Vision, Robotics and Imaging) at UFPR, supervised by Prof. David Menotti.
 
-I hold a degree in System Analysis and Development from the Paraná Federal University. I thrive on learning and exploring new technologies that can make an impact.
-<h1></h1>
+My research focuses on **facial recognition for forensic applications** — building robust pipelines to identify individuals from low-quality mobile device videos, addressing demographic and geographic gaps in existing datasets with a focus on Brazilian populations.
 
-<div align="center">
-
-## 🚀 My Interests and Focus  
-</div>
-
-I am deeply fascinated by:  
-- 🖼️ **Computer Vision**: Image classification, object detection, and visual analysis.  
-- 🧠 **Machine Learning & Deep Learning**: Building intelligent models to solve complex problems.  
-- 🌐 **3D Modeling for the Web**  
-- 📊 **Data Science**: Leveraging data to drive insights and decision-making.  
+Before transitioning into research, I worked as a Full Stack Developer since 2019, which gives me a strong foundation in building production-ready software alongside AI systems.
 
 <h1></h1>
-
-<div align="center">
-
-## 🎯 Future Aspirations  
-</div>
-
-- 📚 Pursue a **Master's degree** specializing in **Computer Vision**.  
-- 🎓 Continue with a **Ph.D.** and contribute to cutting-edge AI research.  
-- 💡 Work on impactful AI projects, pushing the boundaries of **Computer Vision**.  
-
----
 
 <div align="center">
 
 ## 🔨 What I'm Currently Working On  
 </div>
 
-- 📈 Learning advanced **Deep Learning** frameworks like **TensorFlow** and **PyTorch**.  
-- 🛠️ Developing projects in **Object Detection** and **Image Classification**.  
-- 🔍 Exploring advanced **CNNs (Convolutional Neural Networks)** and real-world implementations.  
+- 🎯 **M.Sc. Thesis** — Facial recognition pipeline with quality-aware processing and demographic bias analysis
+- 📦 **Brazilian Politicians Dataset** — A novel face recognition dataset targeting underrepresented populations
+- 🖥️ **Forensic Analysis Interface** — Gradio-based tool for video analysis and identity validation
+
+<h1></h1>
+
+<div align="center">
+
+## 🚀 Research Interests  
+</div>
+
+- 🖼️ **Face Recognition** — Robust identification under unconstrained, low-quality conditions  
+- 📉 **Demographic Bias in AI** — Evaluating and mitigating bias in visual recognition systems  
+- 🎬 **Video Understanding** — Temporal aggregation and quality-aware processing  
+- 🤖 **ML Engineering** — Bridging research and production deployment  
+
+<h1></h1>
+
+<div align="center">
+
+## 🎯 What's Next  
+</div>
+
+- 🎓 M.Sc. defense planned for late 2026 / early 2027  
+- 📄 Targeting publications in Pattern Recognition Letters and IEEE TIFS  
+- 🌍 PhD applications in Computer Vision (Scandinavia)  
 
 <h1></h1>
 
@@ -60,7 +62,7 @@ I am deeply fascinated by:
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,ts,react,nextjs,nodejs,docker,linux,git,postgresql,mongodb,cypress" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git,react,nextjs,nodejs,postgresql,mongodb" />
 </p>
 
 <h1></h1>
@@ -84,22 +86,9 @@ I am deeply fascinated by:
 ## 📫 Let's Connect  
 </div>
 
-I’m always open to collaborating on AI and Computer Vision projects, sharing knowledge, or discussing emerging trends. Feel free to reach out:  
-
 <p align="center">
   <a href="mailto:diano.contact@gmail.com"><img src="https://img.shields.io/badge/Email-diano.contact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
   <a href="https://linkedin.com/in/alexandre-diano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Diano-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
-
-<h1></h1>
-
-<div align="center">
-
-## 🌟 Let's Shape the Future with AI!  
-</div>
-
-I'm excited about the endless possibilities that **AI** and **Computer Vision** offer. Let's connect, collaborate, and innovate together!
-
-<h1></h1>
