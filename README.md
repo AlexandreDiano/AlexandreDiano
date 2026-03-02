@@ -73,10 +73,10 @@ Before transitioning into research, I worked as a Full Stack Developer since 201
 </div>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true" alt="GitHub Stats" />
+  <!-- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true" alt="GitHub Stats" /> -->
   <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrediano&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrediano&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&layout=compact" alt="Top Languages" />
+  <!-- <br/> -->
+  <!-- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrediano&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&layout=compact" alt="Top Languages" /> -->
 </p>  
 
 <h1></h1>
