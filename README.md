@@ -20,6 +20,8 @@ My research focuses on **facial recognition for forensic applications** — buil
 
 Before transitioning into research, I worked as a Full Stack Developer since 2019, which gives me a strong foundation in building production-ready software alongside AI systems.
 
+My long-term goal is **applied research** — taking computer vision from papers to real-world systems, whether in a PhD program or an industry R&D team.
+
 <h1></h1>
 
 <div align="center">
@@ -52,7 +54,7 @@ Before transitioning into research, I worked as a Full Stack Developer since 201
 
 - 🎓 M.Sc. defense planned for late 2026 / early 2027  
 - 📄 Targeting publications in Pattern Recognition Letters and IEEE TIFS  
-- 🌍 PhD applications in Computer Vision (Scandinavia)  
+- 🌍 Seeking research-oriented opportunities in Computer Vision — PhD positions or industry R&D (Sweden / Scandinavia)  
 
 <h1></h1>
 
@@ -61,23 +63,23 @@ Before transitioning into research, I worked as a Full Stack Developer since 201
 ## 🛠️ Skills  
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git,react,nextjs,nodejs,postgresql,mongodb" />
-</p>
-
-<h1></h1>
-
 <div align="center">
 
-## 📊 GitHub Stats  
+**Research & Engineering Stack**
 </div>
 
 <p align="center">
-  <!-- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true" alt="GitHub Stats" /> -->
-  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrediano&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-  <!-- <br/> -->
-  <!-- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrediano&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&layout=compact" alt="Top Languages" /> -->
-</p>  
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git" />
+</p>
+
+<div align="center">
+
+**Software Engineering Background**
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgresql,mongodb" />
+</p>
 
 <h1></h1>
 
